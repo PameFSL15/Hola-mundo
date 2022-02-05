@@ -1,4 +1,5 @@
 # Hola-mundo
-Mi primer repositorio de prueba
+Mi primer repositorio.
 
-Autor: Pamela Salgado Fernández
+Autor: Pamela Salgado
+Fecha: 05/02/2022
